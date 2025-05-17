@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/abanishkhatry/frontend-donor-match
+[submodule "backend"]
+	path = backend
+	url = https://github.com/abanishkhatry/backend-donor-match
+[submodule "backend-donor-match"]
+	path = backend-donor-match
+	url = https://github.com/abanishkhatry/backend-donor-match.git
+[submodule "frontend-donor-match"]
+	path = frontend-donor-match
+	url = https://github.com/abanishkhatry/frontend-donor-match.git
